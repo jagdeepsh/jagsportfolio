@@ -81,10 +81,10 @@ Welcome to my portfolio! I'm a passionate and results-driven Computer Science st
 
 Feel free to reach out to me through my social media profiles or email listed below. I'd love to connect with like-minded professionals and collaborators.
 
-- **Email**: [your-email@example.com](mailto:jagdeep@u.nus.edu)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/jag-singh-867a7916a/)
-- **GitHub**: [your-github-profile](https://github.com/jagdeepsh)
-- **Portfolio Website**: [your-portfolio-url](https://jagdeepsh.github.io/jagsportfolio/)
+- **Email**: [jagdeep@u.nus.edu](mailto:jagdeep@u.nus.edu)
+- **LinkedIn**: [Jagdeep Singh](https://www.linkedin.com/in/jag-singh-867a7916a/)
+- **GitHub**: [jagdeepsh](https://github.com/jagdeepsh)
+- **Portfolio Website**: [Jags Portfolio](https://jagdeepsh.github.io/jagsportfolio/)
 
 ---
 
